@@ -7,8 +7,9 @@ An analytics dashboard using over 1 million property records from Dubai Land Dep
 
   
 - Macro-level Market Insights
+
   
-<img width="561" height="286" alt="1" src="https://github.com/user-attachments/assets/24bf8cf8-230f-4daa-9d3a-7a4119c2ceee" />
+<img width="679" height="365" alt="1" src="https://github.com/user-attachments/assets/71b421ee-c214-431f-b21f-490206fb41e1" />
 
 
 - Investment & Yield Analysis
