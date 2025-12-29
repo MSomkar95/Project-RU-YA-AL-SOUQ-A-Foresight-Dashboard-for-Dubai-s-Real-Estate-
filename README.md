@@ -1,11 +1,14 @@
-- Dataset:
+- DATASET:
   [Dataset: Dubai Land Department](https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions)
 
-- Project Brief:
+- PROJECT BRIEF:
   
-An analytics dashboard using over 1 million property records from Dubai Land Department. It combines ETL (SQL) pipelines with Power BI to deliver dynamic insights tailored for real estate developers, investors, and urban strategists. It tries to answer: Where to build, what to sell and how to price.
+A Real Estate Analytics initiative of building an analytical and strategic review using over 1 million property records from Dubai Land Department, built combining ETL (SQL) pipelines with Power BI to build a detailed report and finally building a power point presentation giving point to point insights real estate developers, investors, and urban strategists. It tries to answer: Where to build, what to sell and how to price.
 
-  
+- DETAILED POWERPOINT REPORT WITH FINDINGS:
+
+     [Dubai Real Estate Analytics Strategic Review](https://docs.google.com/presentation/d/1PANwyK2uHan5COE7g32GRDLT9KRu-ynV/edit?slide=id.p1#slide=id.p1)
+   
 - Macro-level Market Insights
 
   
