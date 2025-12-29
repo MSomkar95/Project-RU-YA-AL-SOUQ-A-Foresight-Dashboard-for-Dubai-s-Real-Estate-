@@ -14,27 +14,27 @@ A Real Estate Analytics initiative of building an analytical and strategic revie
 
 
 ## MARKET OVERVIEW:     
-1. 
+1. Average Price/SqM and Transaction Volume Trend (1975-2024)
 
   <img width="804" height="259" alt="1" src="https://github.com/user-attachments/assets/2d276eb4-015a-4bee-9b90-a8a0f5abe6d3" />
 
   - Transaction volumes have fluctuated significantly, with spikes around global/regional events and notable growth in recent years, especially post-2020. 
   - The period around 2010 saw transaction peaks of up to 30K, while the most recent data suggest a historic high of 162K transactions in 2025.
 
-2.
+2. Year On Year Transaction Volume Distribution by Property Type (1995-2025)
 
   <img width="806" height="244" alt="1a" src="https://github.com/user-attachments/assets/95b7b1b7-7687-4d9b-beca-d228362f5f70" />
 
   - Initially, 'Building' and 'Land' transactions dominated, but from 2008 onward, 'Unit' transactions surged, accounting for most of the market activity, over 70% in recent years.
 
-3.
+3. Top 10 Areas by Transaction Volume
 <img width="839" height="251" alt="1b" src="https://github.com/user-attachments/assets/2e422b3f-5c21-404a-b311-1dfe1c22ae33" />
 
 - The most active areas in Dubai's property transactions are Marsa Dubai (93K), Al Thanyah Fifth (66K), and Al Barsha South Fourth (64K), with Business Bay and Burj Khalifa also recording strong volumes (64K and 57K respectively). 
 - Marsa Dubai leads by a substantial margin, highlighting its appeal for real estate investments and ongoing development. 
 
   
-4.
+4. Concentration of Transaction volume
 <img width="420" height="302" alt="2a_2" src="https://github.com/user-attachments/assets/ad7a6ff7-5a1d-4395-93b2-7c13d0f94620" />
 
 <img width="420" height="305" alt="2a_3" src="https://github.com/user-attachments/assets/13e28762-8fdf-4a7a-bbfa-b3719be4f1b0" />
@@ -45,25 +45,26 @@ A Real Estate Analytics initiative of building an analytical and strategic revie
 
 
 ## PROPERTY TYPES AND ASSET CLASS TRENDS:
-1.
+1.Year On Year Transaction Volume Distribution by Property Type (2007-2024)
+
 <img width="769" height="218" alt="3e" src="https://github.com/user-attachments/assets/c4859766-62b5-4e4b-a040-03a68bebadbc" />
 
 - The Dubai market has consolidated around mid-segment residential units (1B/R–3B/R), reflecting maturing investor behavior and steady end-user absorption. The luxury and office segments remain stable, but smaller-unit investments are driving turnover and liquidity.
 
-2. 
+2. Volume Distribution by Price Tier
 <img width="374" height="204" alt="3c" src="https://github.com/user-attachments/assets/ebff5aa3-006f-4bea-bcb3-f4353a5cc843" />
 
 - The pie chart here shows that Dubai property market remains volume-driven, led by mid-range (priced up to 25,000 AED per sqm: 45.8%) and affordable property (priced up to 10,000 AED per sqm: 31.3%), indicative of strong end-user demand and broader investor participation.
 
 
 ## TRANSACTION PATTERNS AND OFF-PLAN ANALYSIS:
-1.
+1. Existing Plan Transactions v/s Off-Plan Transactions Trend (2000-2024)
 <img width="763" height="275" alt="4a" src="https://github.com/user-attachments/assets/57ec6d8a-b47e-484e-8856-9d120a4dcb2d" />
 
 - Historical consistency in Existing Plan Transactions until 2015, with periodic cycles influenced by macro events (e.g., 2008 crisis, oil price volatility, and Expo preparation phase).
 
 ## FINANCIAL LANDSCAPE AND BUYER BEHAVIOR:
-1.
+1. Distribution Trend of Transaction Volume by Transaction Type (1995-2025)
 <img width="861" height="217" alt="5b" src="https://github.com/user-attachments/assets/9f125ded-e4ca-460f-ba30-b9ac1ec385cc" />
 
  - Rising Mortgage Share: The percentage of transactions involving mortgages has steadily increased, particularly after the 2008 financial crisis, indicating that consumers are more reliant on financing for property purchases. By 2020, the mortgage share was 79.78%, and it is forecasted to remain high (79.99%) in 2025.
